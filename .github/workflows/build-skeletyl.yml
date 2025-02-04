@@ -1,7 +1,7 @@
 # Copyright 2021 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-name: 'Build Example planck/rev6'
+name: 'Build Skeletyl'
 on:
   - workflow_dispatch
 jobs:
