@@ -363,9 +363,9 @@ U_NA,              KC_ALGR,           TD(U_TD_U_MOUSE),  TD(U_TD_U_SYM),    U_NA
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              KC_UNDS,           KC_LPRN,           KC_RPRN,           U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_SYM \
- KC_EXLM, KC_AT, KC_HASH, KC_DLR, KC_PERC, KC_TRNS, KC_TRNS, KC_EQL, KC_GRV, KC_COLN, KC_SCLN, KC_PLUS, \
-OSM(MOD_LALT), OSM(MOD_LGUI), OSM(MOD_LSFT), OSM(MOD_LCTL), KC_CIRC, KC_TRNS, KC_TRNS, KC_ASTR, KC_LPRN, KC_LCBR, KC_LBRC, KC_MINS, \
-KC_NUBS, LSFT(KC_NUBS), KC_NUHS, LSFT(KC_NUHS), KC_AMPR, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TILD, KC_RPRN, KC_RCBR, KC_RBRC, KC_UNDS, \
+ KC_EXLM, KC_AT, KC_HASH, KC_DLR, KC_PERC, KC_EQL, KC_GRV, KC_COLN, KC_SCLN, KC_PLUS, \
+OSM(MOD_LALT), OSM(MOD_LGUI), OSM(MOD_LSFT), OSM(MOD_LCTL), KC_CIRC, KC_ASTR, KC_LPRN, KC_LCBR, KC_LBRC, KC_MINS, \
+KC_NUBS, LSFT(KC_NUBS), KC_NUHS, LSFT(KC_NUHS), KC_AMPR, KC_TILD, KC_RPRN, KC_RCBR, KC_RBRC, KC_UNDS, \
 U_NP,              U_NP,              KC_LPRN,           KC_RPRN,           KC_UNDS,           U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
 
