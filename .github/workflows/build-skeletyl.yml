@@ -8,4 +8,5 @@ jobs:
   build:
     uses: ./.github/workflows/main.yml
     with:
-      keyboard: '["planck/rev6"]'
+      keyboard: '["bastardkb/skeletyl/v2/splinky_3"]'
+      alphas: '["QWERTY"]'
